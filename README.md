@@ -25,6 +25,9 @@ I am a dedicated software developer with a degree in Computer Science. I have a 
   <img src="https://img.shields.io/badge/React-%2320232A.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React"/>
 </div>
 
+## 🎉 My Journey
+![My GIF](https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif)
+
 ## 🚀 Projects
 Here are a few projects I've worked on:
 
