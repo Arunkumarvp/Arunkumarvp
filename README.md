@@ -1,34 +1,48 @@
-# 💫 About Me
-I'm **Arunkumar**, a software developer with a passion for solving challenging problems and learning new technologies. I specialize in **Java, JavaScript, C#, Python**, and am experienced with multiple cloud platforms like **AWS, Azure, and Google Cloud**. I thrive in dynamic environments that push me to grow and am eager to contribute to innovative projects.
+<h1 align="center">👋 Hi, I'm Arunkumar!</h1>
+<h3 align="center">A Passionate Software Developer from [Your Location]</h3>
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arun-kumar-p-41a82320a)
-
----
-
-# 💻 Tech Stack
-### 🖥️ Languages & Frameworks
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-### ☁️ Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
-
-### ⚙️ DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
+<p align="center">
+  <a href="https://linkedin.com/in/arun-kumar-p-41a82320a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/Arunkumarvp" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+</p>
 
 ---
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Arunkumarvp&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Arunkumarvp&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arunkumarvp&theme=tokyonight&hide_border=false&layout=compact)
+## 💼 About Me
+I am a dedicated software developer with a degree in Computer Science. I have a strong foundation in programming languages such as Java, JavaScript, C#, and Python. I love solving complex problems and am eager to learn new technologies to contribute effectively to innovative projects.
+
+## 🛠️ Tech Stack
+<div>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/React-%2320232A.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React"/>
+</div>
+
+## 🚀 Projects
+Here are a few projects I've worked on:
+
+- [Project Name 1](#) - Brief description of the project.
+- [Project Name 2](#) - Brief description of the project.
+- [Project Name 3](#) - Brief description of the project.
+
+## 📊 GitHub Stats
+![Arunkumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arunkumarvp&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arunkumarvp&theme=radical&hide_border=false)
+
+## ✍️ Random Dev Quote
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## 😄 Let's Connect!
+Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/arun-kumar-p-41a82320a) or check out my projects on [GitHub](https://github.com/Arunkumarvp).
 
 ---
 
-### ✍️ Inspiring Quote
-> “Code is like humor. When you have to explain it, it’s bad.” - Cory House
-
----
-
-### 😂 Random Dev Meme
-![Random Meme](https://some-meme-link.com)
+<p align="center">Made with ❤️ by Arunkumar</p>
